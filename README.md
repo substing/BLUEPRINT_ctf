@@ -1,1 +1,3 @@
-# BLUEPRINT_ctf
+# BLUEPRINT CTF Writeup
+
+See the PDF.
